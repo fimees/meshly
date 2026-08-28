@@ -913,3 +913,4 @@ Issues, suggestions and pull requests are welcome.
 ---
 
 **Meshly — simple communication, built from scratch.**
+my [`LICENSE`](https://t.me/fimees)
