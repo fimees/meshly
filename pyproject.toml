@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "meshly"
+version = "1.0.0"
+
+description = "Secure terminal LAN messenger written in Python"
+
+readme = "README.md"
+
+requires-python = ">=3.11"
+
+license = { text = "MIT" }
+
+authors = [
+    { name = "fimees" }
+]
+
+dependencies = [
+    "textual>=0.70"
+]
+
+
+[project.scripts]
+
+meshly-server = "meshly.server:main"
+meshly = "meshly.client:main"
+
+
+[tool.setuptools]
+
+package-dir = {"" = "src"}
+
+
+[tool.setuptools.packages.find]
+
+where = ["src"]
