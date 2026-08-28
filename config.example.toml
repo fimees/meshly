@@ -1,0 +1,10 @@
+[server]
+host = "0.0.0.0"
+port = 1488
+database = "meshly.db"
+max_message_length = 2000
+history_limit = 50
+
+[security]
+certificate = "server.crt"
+private_key = "server.key"
