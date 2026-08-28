@@ -900,7 +900,7 @@ git push origin feature/my-feature
 
 Meshly is licensed under the MIT License.
 
-See [`LICENSE`](./LICENSE) for details.
+See [`LICENSE`](./LICENSE.md) for details.
 
 ---
 
