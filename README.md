@@ -130,7 +130,7 @@ git --version
 Clone Meshly from GitHub:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meshly.git
+git clone https://github.com/fimees/meshly.git
 ```
 
 Enter the project directory:
