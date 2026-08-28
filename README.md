@@ -17,7 +17,7 @@ It allows multiple users to communicate through a local network or a virtual LAN
 
 ## 🖥️ Preview
 
-![Meshly Terminal Interface](./docs/screenshot.png)
+![Meshly Terminal Interface](./docs/screen.gif)
 
 ---
 
